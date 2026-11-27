@@ -13,8 +13,8 @@ vai só para a conversa que está aberta.
 
 ## Instalar
 
-Funciona no Chrome, Edge, Brave e Opera, na versão 111 ou mais nova. O aplicativo do WhatsApp para
-Windows não aceita extensão: use o site.
+Funciona no Chrome e no Edge a partir da versão 111, e no Brave e no Opera atuais. O aplicativo do
+WhatsApp para Windows não aceita extensão: use o site.
 
 1. Baixe o [figurinha-com-som.zip](https://github.com/LuanDCS/figurinha-com-som/releases/latest/download/figurinha-com-som.zip)
    do [último release](https://github.com/LuanDCS/figurinha-com-som/releases/latest) e extraia.
